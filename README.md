@@ -95,12 +95,6 @@ Tu "Single page app" debe tener las siguientes características:
 
 -------------------------------------------
 
-## **BURGUER QUEEN**
-
-Somos Burguer Queen, una cadena de establecimientos de comida rapida, especializados en la venta de hamburguesas, 
- ofrecemos el servicio de delivery las 24 horas. 
-
-
 ## Planificación
 
 Para una planificacion segura y eficaz se utilizo TRELLO,  gestor de tareas que permite el trabajo de forma colaborativa.
