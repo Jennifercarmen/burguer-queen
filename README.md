@@ -93,3 +93,50 @@ Tu "Single page app" debe tener las siguientes características:
 * No es necesario implementar persistencia
 * No es necesario implementar conexiones remotas
 
+-------------------------------------------
+
+## **BURGUER QUEEN**
+
+Somos Burguer Queen, una cadena de establecimientos de comida rapida, especializados en la venta de hamburguesas, 
+ ofrecemos el servicio de delivery las 24 horas. 
+
+
+## Planificación
+
+Para una planificacion segura y eficaz se utilizo TRELLO,  gestor de tareas que permite el trabajo de forma colaborativa.
+
+Dividimos nuestras tareas por semana:
+
+**SEMANA 1**
+- Formar equipo.
+- Hacer fork de reto modelo.
+- Escribir primera versión del README.md con una descripción general del proyecto.
+- Crear issues y milestones que sirvan como hoja de ruta (roadmap)
+- Inicializar proyecto con npm init y git init.
+
+
+**SEMANA 2**
+
+- Implementar funcionalidad esencial.
+- Actualizar el Readme.md con las nuevas caracteristicas del proyecto.
+- Preparar  demo/presentación.
+- Publicar el ejemplo principal en GitHub pages.
+- Hacer code review con tus compañeras e instructorxs.
+-
+
+Puedes visitar nuestro tablero ingresando https://trello.com/b/GCkBdcs5/react
+
+![planificación](demo/assets/images/TRELLO.png)
+
+
+
+## Autores
+
+- **Wendy Quispe** - [@wendytamara](https://github.com/wendytamara)
+- **Jennifer Carmen** - [@jennifercarmen](https://github.com/jennifercarmen)
+
+## Licencia
+
+Este proyecto está licenciado bajo la Licencia ISC - ver el archivo [LICENSE](https://www.isc.org) para más detalles.
+
+Copyright &copy; 2018 All Rights Reserved.
