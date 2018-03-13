@@ -4,12 +4,12 @@ Somos **Burguer Queen**, una cadena de comida rápida 24hrs.
 
 ## Entregables
 
-* Realizarán un _fork_ de este repositorio. Este trabajo es **colaborativo**, 
-por lo tanto se evaluará que esté desarrollado equitativamente entre sus 
+* Realizarán un _fork_ de este repositorio. Este trabajo es **colaborativo**,
+por lo tanto se evaluará que esté desarrollado equitativamente entre sus
 integrantes
 
-* Deberán incluir mínimo 2 ramas (aparte de master y gh-pages) las cuales 
-tendrán que estar integradas en el master al momento de la entrega, 
+* Deberán incluir mínimo 2 ramas (aparte de master y gh-pages) las cuales
+tendrán que estar integradas en el master al momento de la entrega,
 **cada rama deberá tener de 5 a más commits por integrante**
 
 * Recuerden que deben actualizar este README con la descripción de su proyecto
@@ -97,8 +97,8 @@ Tu "Single page app" debe tener las siguientes características:
 
 ## **BURGUER QUEEN**
 
-Somos Burguer Queen, una cadena de establecimientos de comida rapida, especializados en la venta de hamburguesas, 
- ofrecemos el servicio de delivery las 24 horas. 
+Somos Burguer Queen, una cadena de establecimientos de comida rapida, especializados en la venta de hamburguesas,
+ ofrecemos el servicio de delivery las 24 horas.
 
 
 ## Planificación
@@ -127,7 +127,16 @@ Dividimos nuestras tareas por semana:
 Puedes visitar nuestro tablero ingresando https://trello.com/b/GCkBdcs5/react
 
 ![planificación](demo/assets/images/TRELLO.png)
+## desarrollo
 
+Como equipo, lo primero q realizamos fue desarrollar el diseño y el flujo de nuestra aplicacion.
+
+La siguiente imagen muestra la primera vista de nuestra aplicacion, en donde el usuario puede general el pedido de las hamburguesas de su preferencia y despues le da click en el boton ordenar
+
+![portada](src/assets/docs/1.jpg "De 150 x 150 píxeles")
+
+Esta imagen es nuestra segunda vista, donde el usuario puede armar su combo y añadir complementos como papas fritas, aros de cebolla o gaseosas.
+![portada](src/assets/docs/2.jpg "De 150 x 150 píxeles")
 
 
 ## Autores
